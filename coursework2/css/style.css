@@ -1,0 +1,108 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+
+
+
+
+body {background-color: lightblue;
+}
+
+.logo{
+  align-content: center;
+height: 300px;
+width: 500px;
+}
+.container1{
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+text-align: center;
+font-size: 20px;
+font-family: monospace;
+}
+
+.p1{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+font-family: monospace;
+}
+
+
+.h2{
+  background-color: white;
+text-align: center;
+font-size: 30px;
+text-decoration: underline;
+font-family: monospace;
+}
+.link1{
+  align-items: center;
+  font-size: 25px;
+  font-family: monospace;
+}
+.container2{
+  text-align:center;
+  font-family: monospace;
+  font-size: 20px;
+
+}
+.potw{
+  float: left;
+  height: 500px;
+  width: 700px;
+}
+
+
+.container3{
+  align-items: center;
+  text-align: center;
+  font-family: monospace;
+font-size: 20px;
+}
+.container4{
+  text-align: left;
+  font-family: monospace;
+  font-size: 16px;
+}
+.cup{
+ float: right;
+ width: 600px;
+ height: 700px;
+}
+
+
+.interview{
+  float: left;
+  width: 200px;
+  height: 300px;
+}
+
+
+.button{
+  color: red;
+  align-items: center;
+  flex: auto;
+  width: 400px;
+  height: 300px;
+}
+
+.interview{
+  flex: auto;
+  float: left;
+}
+
+
+.sara{
+flex: auto;
+float: right;
+width: 300px;
+height: 500px;
+
+
+}
